@@ -7,4 +7,4 @@ BSc. in Computer Science and Engineering
 <br>
 I'm a competitive programmer
 <br>
-Insha'Allah , One day I will become a world famous AI researcher.
+Insha'Allah , One day I will become  AI  & ML Engineer.
