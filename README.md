@@ -8,3 +8,6 @@ BSc. in Computer Science and Engineering
 I'm a competitive programmer
 <br>
 Insha'Allah , One day I will become  AI  & ML Engineer.
+<br>
+I learn each day
+
